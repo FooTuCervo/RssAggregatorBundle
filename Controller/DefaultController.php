@@ -1,6 +1,6 @@
 <?php
 
-namespace FooTuCervo\RssAggregatorBundle\Controller;
+namespace FTC\RssAggregatorBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;

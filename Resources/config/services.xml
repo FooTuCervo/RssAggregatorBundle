@@ -6,11 +6,11 @@
 
     <!--
     <parameters>
-        <parameter key="foo_tu_cervo_rss_aggregator.example.class">FooTuCervo\RssAggregatorBundle\Example</parameter>
+        <parameter key="ftc_rss_aggregator.example.class">FTC\RssAggregatorBundle\Example</parameter>
     </parameters>
 
     <services>
-        <service id="foo_tu_cervo_rss_aggregator.example" class="%foo_tu_cervo_rss_aggregator.example.class%">
+        <service id="ftc_rss_aggregator.example" class="%ftc_rss_aggregator.example.class%">
             <argument type="service" id="service_id" />
             <argument>plain_value</argument>
             <argument>%parameter_name%</argument>

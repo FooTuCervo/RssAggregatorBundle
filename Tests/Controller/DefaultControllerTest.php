@@ -1,6 +1,6 @@
 <?php
 
-namespace FooTuCervo\RssAggregatorBundle\Tests\Controller;
+namespace FTC\RssAggregatorBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
